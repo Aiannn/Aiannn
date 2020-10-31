@@ -19,6 +19,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aiannn&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiannn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 - Thanks so much to  [Gautam krishna R](https://github.com/gautamkrishnar) for his [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)!
