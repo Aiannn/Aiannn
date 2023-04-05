@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aian Soktoev</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-
-- 🔭 I’m currently working on [CM](https://github.com/Aiannn/CM)
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available in my [Website](https://aiannn.github.io)
+<h1 align="center">Hi, I'm Aian Soktoev</h1>
+<h3 align="center">Software Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
